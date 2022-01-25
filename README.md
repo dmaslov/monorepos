@@ -1,4 +1,4 @@
-# Momorepos.2022 presentation
+# Monorepos.2022 presentation
 
 ### Powered by [Slidev](https://github.com/slidevjs/slidev)!
 
